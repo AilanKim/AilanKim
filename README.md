@@ -2,7 +2,7 @@
 ![Hello](https://capsule-render.vercel.app/api?type=transparent&text=Hello!%20I'm%20Here&fontColor=06402B&fontSize=40)<br>
 ![Hello](https://capsule-render.vercel.app/api?type=transparent&height=30&text=🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊&fontColor=06402B&fontSize=20)
 ![Hello](https://capsule-render.vercel.app/api?type=transparent&height=30&text=She(see)%20is%20Ailan🌱🚀&fontColor=06402B&fontSize=20)<br>
-![Hello](https://capsule-render.vercel.app/api?type=transparent&height=30&text=And%20is%20Butterwehas🧈🌴&fontColor=06402B&fontSize=20)<br>
+![Hello](https://capsule-render.vercel.app/api?type=transparent&height=30&text=And%20Butterwehas🧈🌴&fontColor=06402B&fontSize=20)<br>
 ![Hello](https://capsule-render.vercel.app/api?type=transparent&height=30&text=I%20like%20writing%20to%20something.&fontColor=06402B&fontSize=20)<br>
 ![Hello](https://capsule-render.vercel.app/api?type=transparent&height=30&text=Have%20a%20nice%20day!&fontColor=06402B&fontSize=20)<br>
 ![Hello](https://capsule-render.vercel.app/api?type=transparent&height=30&text=🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊&fontColor=06402B&fontSize=20)<br><br>
