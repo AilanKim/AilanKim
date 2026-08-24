@@ -11,6 +11,6 @@
   <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS-ffffff?style=flat-square&logo=css&logoColor=663399"/>
-</div>
+</div><br>
 
 ![header](https://capsule-render.vercel.app/api?height=200&type=wave&section=footer&color=06402B)
